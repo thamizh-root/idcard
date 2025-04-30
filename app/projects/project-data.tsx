@@ -12,10 +12,16 @@ export const projects: Project[] = [
     description: "A Delightful Color Palette Explorer",
     url: "https://github.com/thamizh-root/kolors",
   },
-  // {
-  //   title: "OpenDeepLearning",
-  //   year: 2023,
-  //   description: "Open source AI education resources",
-  //   url: "https://opendeeplearning.xyz/",
-  // },
+  {
+    title: "tic-tac-toe",
+    year: 2025,
+    description: "Master Key React Concepts Easily",
+    url: "https://github.com/thamizh-root/tic-tac-toe",
+  },
+  {
+    title: "idcard",
+    year: 2025,
+    description: "My minimalistic portfolio",
+    url: "https://github.com/thamizh-root/idcard",
+  },
 ];
